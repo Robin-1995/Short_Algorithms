@@ -28,7 +28,7 @@ def closest_points(arr,k=1):
 
     else:
         temp_arr = [float("-inf")] * (len(arr)-k)
-        output_arr = [point for point in arr]
+        output_arr = arr
         for point in arr:
             distance = (point[0]**2 + point[1]**2)**0.5
             distance_store[point] = distance
