@@ -1,5 +1,5 @@
 # Short_Algorithms
-A collection of short algorthims
+A collection of short algorthims, this will updated as they are uploaded to GitHub
 
 I've written some short algorithms in python, they include:
 
