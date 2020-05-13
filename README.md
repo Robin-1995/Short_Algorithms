@@ -1,5 +1,5 @@
 # Short_Algorithms
-A collection of short algorthims, written in python. These will updated as they are uploaded to GitHub\
+A collection of short algorthims, written in python. These will updated as they are uploaded to GitHub
 
 1) K_Closest_Points_to_Origin\
    this function takes in 2 arguments, list of coordinates (tuples) and k, where k is the number of coordinates to return (default = 1)\
